@@ -57,8 +57,8 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 - Acted as the go-to engineer for live debugging sessions and ad-hoc meetings with enterprise clients.
 - Delivered fixes for critical playback issues in a web media player powering over 4 billion streams per month that improved stream stability and preserved revenue for major B2B partners.
 - Managed Player releases with a canary deployment strategy: A/B testing using in-house analytics piped into Graphite/Grafana database to detect anomalies only present in production traffic
-- Proposed and authored a formal RFC for the new playback engine in video.js.
-- Actively contributed to the video.js open-source ecosystem improving core playback features used on over 750,000 websites, starred by 38,000 developers on GitHub.
+- Proposed and authored a formal [RFC](https://github.com/videojs/rfcs/blob/main/proposals/0003-vhs-next.md) for the new playback engine in video.js.
+- Actively contributed to the video.js open-source ecosystem [improving core playback features](https://github.com/videojs/http-streaming/pulls?q=is%3Apr+author%3Adzianis-dashkevich+is%3Aclosed+sort%3Acreated-asc) used on over 750,000 websites, starred by 38,000 developers on GitHub.
 - Overhauled CI/CD (TeamCity) pipelines to reduce duplication and increase reliability
 - Built an automated PR aggregation tool across 100+ internal/open-source repos, reducing code review delays by half.
 - Founded and led an internal Web Player Discussion Club, fostering a culture of continuous learning and cross-team knowledge sharing around video tech, playback performance, and web media standards.
