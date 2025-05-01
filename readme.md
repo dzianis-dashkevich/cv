@@ -14,20 +14,16 @@
       * [Software Engineer (Jun 2018 - Aug 2020, Minsk)](#software-engineer-jun-2018---aug-2020-minsk)
         * [Highlights](#highlights-3)
         * [Environment](#environment-3)
-      * [Software Engineer (March 2019 - May 2019, Minsk)](#software-engineer-march-2019---may-2019-minsk)
+      * [Junior Software Engineer (Sep 2017 - Jun 2018, Minsk)](#junior-software-engineer-sep-2017---jun-2018-minsk)
         * [Highlights](#highlights-4)
         * [Environment](#environment-4)
-      * [Junior Software Engineer (Sep 2017 - Jun 2018, Minsk)](#junior-software-engineer-sep-2017---jun-2018-minsk)
-        * [Highlights](#highlights-5)
-        * [Environment](#environment-5)
   * [Community Involvement](#community-involvement)
     * [Rolling Scopes](#rolling-scopes)
       * [Mentor (Jan 2019 - Sep 2019)](#mentor-jan-2019---sep-2019)
-        * [Highlights](#highlights-6)
+        * [Highlights](#highlights-5)
   * [Education](#education)
     * [Diploma, Minsk State Power Engineering College (Sep 2009 — Jul 2013)](#diploma-minsk-state-power-engineering-college-sep-2009--jul-2013)
     * [No Degree, Belarusian State Economic University (Sep 2013 — Jun 2016)](#no-degree-belarusian-state-economic-university-sep-2013--jun-2016)
-
 ---
 
 ### About
@@ -37,10 +33,10 @@ EMAIL='dzianis.dashkevich.us@gmail.com'
 LOCATION='New York'
 ```
 
-Experienced Software Engineer with `8+` years of building high-performance, scalable web media players used by _millions_ worldwide.\
-A recognized contributor to the video.js ecosystem with deep expertise in streaming protocols (HLS, DASH), DRM, and web player frameworks like video.js, hls.js, dash.js and Shaka Player. \
-Led the development of production-grade playback SDKs for Smart TVs, mobile apps, and the web. \
-While web media tech is my core specialty, I bring a generalist mindset—comfortable owning features end-to-end, building responsive frontend interfaces and backend APIs and optimizing CI/CD pipelines. \
+Experienced Software Engineer with `8+` years of building high-performance, scalable web media applications/players used by _millions_ worldwide.\
+A recognized contributor to the video.js ecosystem with deep expertise in streaming protocols (HLS, DASH), DRM, and web player frameworks like video.js, hls.js, dash.js, and Shaka Player. \
+I led the development of production-grade playback SDKs for Smart TVs, mobile apps, and the web. \
+While web media tech is my core specialty, I bring a generalist mindset — I am comfortable owning features end-to-end, building responsive front-end interfaces and backend APIs, and optimizing CI/CD pipelines. \
 Proven ability to adapt quickly, deliver robust solutions across domains, and mentor teammates while fostering engineering excellence.
 
 ---
@@ -52,25 +48,26 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 ##### Staff Software Engineer (Nov 2022 - March 2025, Los Angeles/New York)
 
 ###### Highlights
-- Planned and led development of Web/Smart TV SDK, written in TypeScript, enabling customers to implement media playback across traditional browsers and Smart TVs (Tizen and WebOS).
-- Improved on Brightcove Player in key time-to-first-frame metric by an average of 25%
-- Acted as the go-to engineer for live debugging sessions and ad-hoc meetings with enterprise clients.
+- Planned and led the development of Web/Smart TV SDK, written in TypeScript, enabling customers to implement media playback across traditional browsers and Smart TVs (Tizen and WebOS).
+- Improved Brightcove Player time-to-first-frame metric by an average of 25%.
+- Proactively led live debugging sessions and ad-hoc technical meetings with enterprise clients, diagnosing complex issues in real time and driving rapid resolutions.
 - Delivered fixes for critical playback issues in a web media player powering over 4 billion streams per month that improved stream stability and preserved revenue for major B2B partners.
-- Managed Player releases with a canary deployment strategy: A/B testing using in-house analytics piped into Graphite/Grafana database to detect anomalies only present in production traffic
+- Delivered Google IMA DAI (SSAI) integration within the web player, fulfilling the requirement that was a deal-breaker for several enterprise clients, and directly enabling the closure of multiple high-value contracts.
+- Managed Player releases with a canary deployment strategy: A/B testing using in-house analytics piped into the Graphite/Grafana database to detect anomalies only present in production traffic.
 - Proposed and authored a formal [RFC](https://github.com/videojs/rfcs/blob/main/proposals/0003-vhs-next.md) for the new playback engine in video.js.
 - Actively contributed to the video.js open-source ecosystem [improving core playback features](https://github.com/videojs/http-streaming/pulls?q=is%3Apr+author%3Adzianis-dashkevich+is%3Aclosed+sort%3Acreated-asc) used on over 750,000 websites, starred by 38,000 developers on GitHub.
-- Overhauled CI/CD (TeamCity) pipelines to reduce duplication and increase reliability
-- Built an automated PR aggregation tool across 100+ internal/open-source repos, reducing code review delays by half.
+- Refactored CI/CD pipeline templates in TeamCity to reduce duplication and increase reliability, simplifying the new project setup process and enabling faster, more efficient project launches.
+- Developed an automated PR tracking tool aggregating activity across 120+ internal and open-source repositories, prioritizing team-authored contributions and halving code review delays through status labeling and triage.
 - Founded and led an internal Web Player Discussion Club, fostering a culture of continuous learning and cross-team knowledge sharing around video tech, playback performance, and web media standards.
 
 ###### Environment
 - Team Size: Dev: 8+, QA: 3
-- Key languages, frameworks and tools I used extensively during my work on this project:
-    - javascript/typescript, nodejs
+- Key languages, frameworks, and tools I was using extensively during my work on this project:
+    - javascript/typescript, node.js
     - express.js, video.js, dash.js, hls.js, shaka-player
-    - nx, typedoc, grunt, rollup, vite, babel, aslant, jest, vitest, webdriver.io
-    - ffmpeg, ffprobe, gpac mp4box, bento4, TSDuck
-    - gitHub-actions, teamcity, jenkins, aws, grafana, docker, browserstack
+    - nx, typedoc, grunt, rollup, vite, babel, eslint, jest, vitest, webdriver.io
+    - ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
+    - github-actions, teamcity, jenkins, aws, grafana, docker, browserstack
     - plantuml, lucid
 
 #### EPAM - epam.com (Sep 2017 - Nov 2022)
@@ -78,35 +75,36 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 ##### Senior Software Engineer (Nov 2021 - Nov 2022, Los Angeles)
 
 ###### Highlights
-- Consulted on custom Chromium-based SmartTV media stack—troubleshot critical video rendering issues.
-- Implemented in-house QoE metrics reporting within existing AWS and Grafana infrastructure.
-- Improved player in key time-to-first-frame metric by an average of 15%
-- Delivered ABR optimization and playback stability fixes, reducing buffering by 30% on low performance TVs
+- Resolved a year-long critical playback stuttering issue during ad breaks in production, significantly enhancing live streaming quality for millions of US viewers.
+- Consulted on custom Chromium-based SmartTV media stack—troubleshot critical video rendering issues. 
+- Implemented in-house QoE metrics reporting within existing AWS and Grafana infrastructure to deliver playback insights without relying on third-party vendors.
+- Improved player time-to-first-frame metric by an average of 15%.
+- Delivered ABR optimization and playback stability fixes, reducing buffering by 30% on low-performance TVs.
 
 ###### Environment
-- Customer: Big US SmartTV manufacturer
+- Customer: One of the biggest TV brands in the USA
 - Team Size: Dev 15+, QA: 7+
-- Key languages, frameworks and tools I used extensively during my work on this project:
-  - javascript/typescript
+- Key languages, frameworks, and tools I was using extensively during my work on this project:
+  - javascript/typescript, node.js
   - vue2, vuex, vue-router, svelte, svelte-kit, video.js, dash.js, hls.js, shaka-player
-  - webpack, vite, postCSS, babel, eslint, jest, semantic-release, conventional-changelog, lighthouse, cypress, playwrite
-  - ffmpeg, ffprobe, gpac mp4box, bento4, TSDuck
-  - github-actions, was,  grafana, docker, terraform
+  - webpack, vite, postCSS, babel, eslint, jest, semantic-release, conventional-changelog, lighthouse, cypress, playwright
+  - ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
+  - github-actions, aws, grafana, docker, terraform
   - plantuml, lucid
 
 ##### Senior Software Engineer (Aug 2020 - Nov 2021, Minsk)
 
 ###### Highlights
-- Implemented reusable Flutter widgets UI Kit for our cross-platform media app.
-- Built a multi-platform Google Cast Sender library (Web, iOS, Android), integrated across the Flutter app.
-- Developed Dart-JS interop module for web video player.
-- Significantly improved CI/CD performance leading to faster release cycles
-- Led cross-platform feature team (1 Android Dev, 1 iOS Dev, 1 Web Dev, 1QA)
+- Implemented a reusable Flutter widgets UI kit for our cross-platform media app, accelerating feature development and ensuring design consistency across platforms.
+- Developed a unified multi-platform Google Cast Sender library (Web, iOS, Android) and seamlessly integrated it into the Flutter app, enabling consistent casting functionality across all supported platforms.
+- Built the web implementation of a cross-platform Flutter video player library using Dart–JS interop, enabling HLS/DASH playback with DRM support with a unified interface across Web, iOS, and Android.
+- Significantly improved CI/CD performance, leading to faster release cycles.
+- Led a cross-functional feature team spanning Android, iOS, Web, and QA to deliver Chromecast and Player initiatives, driving alignment across platforms and ensuring cohesive feature implementation.
 
 ###### Environment
-- Customer: Europe's leading streaming, broadband, and communication company.
+- Customer: Europe's leading streaming, broadband, and communication company
 - Team Size: Dev 100+, QA: 20+
-- Key languages, frameworks and tools I used extensively during my work on this project:
+- Key languages, frameworks, and tools I was using extensively during my work on this project:
     - dart, Javascript/typescript, nodejs, swift, kotlin, groovy
     - flutter, flutter-bloc, react, redux, ramdajs, rxjs, avplayer, exoplayer, shaka-player
     - pub, make, gradle, webpack, babel, eslint
@@ -115,46 +113,32 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 ##### Software Engineer (Jun 2018 - Aug 2020, Minsk)
 
 ###### Highlights
-- Added EME persistent license flow and license renewal mechanism. This significantly reduced requests to license servers during high load (eg: Formula 1)
-- Spearheaded the modularization of Web Media Player, introducing plugin-based architecture.
-- Integrated peer-to-peer solutions based on WebRTC (Teltoo and Streamroot) to reduce CDN overhead.
-- Integrated complex Web Player Watermarking solution with module obfuscation and DOM changes detection.
-- Developed Chromecast Receiver App & Web Sender—supporting features like pin codes, bookmarks, rent, restrictions, device registration, visual scrubbing and binge viewing
+- Implemented EME persistent license flow and license renewal mechanism, significantly reduced requests to license servers during high load (eg: Formula 1).
+- Architected and led modularization of Web Media Player into a plugin-based library, decoupling it from the UI layer — enabling dynamic feature loading (e.g., HLS, DASH, DRM), accelerating feature delivery, halving bug triage time, and seamless reuse across platforms and multiple app surfaces.
+- Integrated and tested WebRTC-based peer-to-peer solutions (Teltoo, Streamroot) as a proof of concept to reduce CDN overhead, with real-world metrics gathered in production.
+- Integrated a robust Web Player watermarking solution with module obfuscation and DOM change detection, enabling production-level monitoring to identify screen recording and unlawful content distribution.
+- Developed Chromecast Receiver App and Web Sender with full feature support—including pin codes, bookmarks, rentals, restrictions, device registration, visual scrubbing, and binge viewing — delivering a seamless and enriched casting experience.
+- Solely managed and delivered an internal voice model training app, from roadmap to deployment — making it easy for employees to record and train models using WebAudio API, Web Workers and Nuance WebSocket API.
 
 ###### Environment
-- Customer: Europe's leading streaming, broadband, and communication company.
+- Customer: Europe's leading streaming, broadband, and communication company
 - Team Size: Dev 10+, QA: 4+
-- Key languages, frameworks and tools I used extensively during my work on this project:
+- Key languages, frameworks, and tools I was using extensively during my work on this project:
   - javascript, nodejs, python
   - react, redux, rxjs, ramdajs, lodash, react-motion, conviva, omniture, shaka-player, silverlight
   - webpack, babel, storybook, eslint, jest, lerna
 
-##### Software Engineer (March 2019 - May 2019, Minsk)
-
-###### Highlights
-- Designed and built an internal web app for training voice models using WebAudio API, Web Workers for Opus encoding and Nuance WebSocket API.
-- Managed project solo, delivering on time with full roadmap and stakeholder alignment.
-
-###### Environment
-- Customer: Europe's leading streaming, broadband, and communication company.
-- Team Size: Dev 1
-- Key languages, frameworks and tools I used extensively during my work on this project:
-  - javascript, nodejs
-  - strapi, materialUI, React, redux, rxjs, ramdajs, lib-opus, nuance
-  - webpack, babel, eslint, jest
-
 ##### Junior Software Engineer (Sep 2017 - Jun 2018, Minsk)
 
 ###### Highlights
-- Developed a reusable package of Presentational React components for our
-  media applications (UI Kit).
-- Significantly improved performance (~50% faster) of channels switching in the
-  application's Web Player UI.
+- Developed a reusable UI Kit of presentational React components, accelerating UI development and ensuring visual consistency across our media applications.
+- Optimized channel-switching performance in the Web Player UI, achieving ~50% faster transitions and a noticeably smoother user experience.
+- Developed thumbnail scrubbing for the Web Player UI using WebVTT, image slicing, and binary search, enhancing user control and media navigation.
 
 ###### Environment
-- Customer: Europe's leading streaming, broadband, and communication company.
+- Customer: Europe's leading streaming, broadband, and communication company
 - Team Size: Dev 1
-- Key languages, frameworks and tools I used extensively during my work on this project:
+- Key languages, frameworks, and tools I was using extensively during my work on this project:
     - javascript, nodejs
     - react, redux, rxjs, ramdajs, lodash, react-motion, jQuery, jQuery-mobile
     - webpack, babel, storybook, eslint, jest, lerna
@@ -168,7 +152,7 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 ##### Mentor (Jan 2019 - Sep 2019)
 
 ###### Highlights
-- Mentored people who wants to become software engineers and conducted technical discussions.
+- Mentored a group of three individuals with no prior software engineering experience, providing guidance and conducting technical discussions, leading all members to secure job offers.
 
 ---
 
