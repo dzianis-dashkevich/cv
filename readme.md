@@ -39,6 +39,15 @@ I led the development of production-grade playback SDKs for Smart TVs, mobile ap
 While web media tech is my core specialty, I bring a generalist mindset — I am comfortable owning features end-to-end, building responsive front-end interfaces and backend APIs, and optimizing CI/CD pipelines. \
 Proven ability to adapt quickly, deliver robust solutions across domains, and mentor teammates while fostering engineering excellence.
 
+#### Tech Stack
+
+- javascript, typescript, node.js, dart
+- express.js, video.js, dash.js, hls.js, shaka-player, flutter, flutter-bloc, react, redux, ramdajs, lodash, rxjs
+- nx, lerna, storybook, typedoc, grunt, rollup, vite, webpack, babel, eslint, jest, vitest, webdriver.io, conventional-changelog, lighthouse, cypress, playwright, make, gradle
+- ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
+- jenkins, teamcity, github-actions, aws, grafana, docker, terraform, browserstack, sonar, swagger, nginx
+- plantuml, lucid, draw.io
+
 ---
 
 ### Work Experience
@@ -100,6 +109,7 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 - Built the web implementation of a cross-platform Flutter video player library using Dart–JS interop, enabling HLS/DASH playback with DRM support with a unified interface across Web, iOS, and Android.
 - Significantly improved CI/CD performance, leading to faster release cycles.
 - Led a cross-functional feature team spanning Android, iOS, Web, and QA to deliver Chromecast and Player initiatives, driving alignment across platforms and ensuring cohesive feature implementation.
+- Significantly reduced onboarding time by designing a structured onboarding documentation for new developers, including examples and codebase tours.
 
 ###### Environment
 - Customer: Europe's leading streaming, broadband, and communication company
@@ -134,6 +144,7 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 - Developed a reusable UI Kit of presentational React components, accelerating UI development and ensuring visual consistency across our media applications.
 - Optimized channel-switching performance in the Web Player UI, achieving ~50% faster transitions and a noticeably smoother user experience.
 - Developed thumbnail scrubbing for the Web Player UI using WebVTT, image slicing, and binary search, enhancing user control and media navigation.
+- Implemented DVR window scrubbing in the Web Player, enabling seamless navigation through live content and enhancing the time-shift viewing experience.
 
 ###### Environment
 - Customer: Europe's leading streaming, broadband, and communication company
@@ -149,7 +160,7 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 
 #### Rolling Scopes
 
-##### Mentor (Jan 2019 - Sep 2019)
+##### Mentor (Oct 2018 - Mar 2019)
 
 ###### Highlights
 - Mentored a group of three individuals with no prior software engineering experience, providing guidance and conducting technical discussions, leading all members to secure job offers.
