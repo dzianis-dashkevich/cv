@@ -1,37 +1,6 @@
- * [About](#about)
-  * [Work Experience](#work-experience)
-    * [Brightcove (acquired) - brightcove.com (Nov 2022 - March 2025)](#brightcove-acquired---brightcovecom-nov-2022---march-2025)
-      * [Staff Software Engineer (Nov 2022 - March 2025, Los Angeles/New York)](#staff-software-engineer-nov-2022---march-2025-los-angelesnew-york)
-        * [Highlights](#highlights)
-        * [Environment](#environment)
-    * [EPAM - epam.com (Sep 2017 - Nov 2022)](#epam---epamcom-sep-2017---nov-2022)
-      * [Senior Software Engineer (Nov 2021 - Nov 2022, Los Angeles)](#senior-software-engineer-nov-2021---nov-2022-los-angeles)
-        * [Highlights](#highlights-1)
-        * [Environment](#environment-1)
-      * [Senior Software Engineer (Aug 2020 - Nov 2021, Minsk)](#senior-software-engineer-aug-2020---nov-2021-minsk)
-        * [Highlights](#highlights-2)
-        * [Environment](#environment-2)
-      * [Software Engineer (Jun 2018 - Aug 2020, Minsk)](#software-engineer-jun-2018---aug-2020-minsk)
-        * [Highlights](#highlights-3)
-        * [Environment](#environment-3)
-      * [Junior Software Engineer (Sep 2017 - Jun 2018, Minsk)](#junior-software-engineer-sep-2017---jun-2018-minsk)
-        * [Highlights](#highlights-4)
-        * [Environment](#environment-4)
-  * [Community Involvement](#community-involvement)
-    * [Rolling Scopes](#rolling-scopes)
-      * [Mentor (Jan 2019 - Sep 2019)](#mentor-jan-2019---sep-2019)
-        * [Highlights](#highlights-5)
-  * [Education](#education)
-    * [Diploma, Minsk State Power Engineering College (Sep 2009 — Jul 2013)](#diploma-minsk-state-power-engineering-college-sep-2009--jul-2013)
-    * [No Degree, Belarusian State Economic University (Sep 2013 — Jun 2016)](#no-degree-belarusian-state-economic-university-sep-2013--jun-2016)
----
-
 ### About
 
-```dotenv
-EMAIL='dzianis.dashkevich.us@gmail.com'
-LOCATION='New York'
-```
+dzianis.dashkevich.us@gmail.com / New York
 
 Experienced Software Engineer with `8+` years of building high-performance, scalable web media applications/players used by _millions_ worldwide.\
 A recognized contributor to the video.js ecosystem with deep expertise in streaming protocols (HLS, DASH), DRM, and web player frameworks like video.js, hls.js, dash.js, and Shaka Player. \
