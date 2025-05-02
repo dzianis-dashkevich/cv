@@ -10,22 +10,26 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 
 #### Tech Stack
 
-- javascript, typescript, node.js, dart
-- express.js, video.js, dash.js, hls.js, shaka-player, flutter, flutter-bloc, react, redux, ramdajs, lodash, rxjs
-- nx, lerna, storybook, typedoc, grunt, rollup, vite, webpack, babel, eslint, jest, vitest, webdriver.io, conventional-changelog, lighthouse, cypress, playwright, make, gradle
-- ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
-- jenkins, teamcity, github-actions, aws, grafana, docker, terraform, browserstack, sonar, swagger, nginx
-- plantuml, lucid, draw.io
+- **Languages** 
+  - JavaScript, TypeScript, Node.js, Dart
+- **Frameworks & libs** 
+  - Express.js, Video.js, Dash.js, Hls.js, Shaka-player, Flutter, bloc (Flutter), React, Redux, Zustand, Ramda, Lodash, RxJS
+- **Build & Tooling**
+  - nx, lerna, storybook, typedoc, grunt, rollup, vite, webpack, babel, eslint, jest, vitest, webdriver.io, semantic-release, conventional-changelog, lighthouse, cypress, playwright, make
+- **Media**
+  - ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
+- **CI/CD & DevOps**
+  - jenkins, teamcity, github-actions, aws, grafana, docker, terraform, browserstack, swagger, nginx
+- **Diagrams & Documentation**
+  - plantuml, lucid, draw.io, excalidraw, mermaid.js
 
 ---
 
 ### Work Experience
 
-#### Brightcove (acquired) - brightcove.com (Nov 2022 - March 2025)
+#### Brightcove (acquired) - brightcove.com (Nov 2022 - Mar 2025)
 
-##### Staff Software Engineer (Nov 2022 - March 2025, Los Angeles/New York)
-
-###### Highlights
+##### Staff Software Engineer (Nov 2022 - Mar 2025, Los Angeles/New York)
 - Planned and led the development of Web/Smart TV SDK, written in TypeScript, enabling customers to implement media playback across traditional browsers and Smart TVs (Tizen and WebOS).
 - Improved Brightcove Player time-to-first-frame metric by an average of 25%.
 - Proactively led live debugging sessions and ad-hoc technical meetings with enterprise clients, diagnosing complex issues in real time and driving rapid resolutions.
@@ -38,60 +42,24 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 - Developed an automated PR tracking tool aggregating activity across 120+ internal and open-source repositories, prioritizing team-authored contributions and halving code review delays through status labeling and triage.
 - Founded and led an internal Web Player Discussion Club, fostering a culture of continuous learning and cross-team knowledge sharing around video tech, playback performance, and web media standards.
 
-###### Environment
-- Team Size: Dev: 8+, QA: 3
-- Key languages, frameworks, and tools I was using extensively during my work on this project:
-    - javascript/typescript, node.js
-    - express.js, video.js, dash.js, hls.js, shaka-player
-    - nx, typedoc, grunt, rollup, vite, babel, eslint, jest, vitest, webdriver.io
-    - ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
-    - github-actions, teamcity, jenkins, aws, grafana, docker, browserstack
-    - plantuml, lucid
-
 #### EPAM - epam.com (Sep 2017 - Nov 2022)
 
 ##### Senior Software Engineer (Nov 2021 - Nov 2022, Los Angeles)
-
-###### Highlights
 - Resolved a year-long critical playback stuttering issue during ad breaks in production, significantly enhancing live streaming quality for millions of US viewers.
 - Consulted on custom Chromium-based SmartTV media stack—troubleshot critical video rendering issues. 
 - Implemented in-house QoE metrics reporting within existing AWS and Grafana infrastructure to deliver playback insights without relying on third-party vendors.
 - Improved player time-to-first-frame metric by an average of 15%.
 - Delivered ABR optimization and playback stability fixes, reducing buffering by 30% on low-performance TVs.
 
-###### Environment
-- Customer: One of the biggest TV brands in the USA
-- Team Size: Dev 15+, QA: 7+
-- Key languages, frameworks, and tools I was using extensively during my work on this project:
-  - javascript/typescript, node.js
-  - vue2, vuex, vue-router, svelte, svelte-kit, video.js, dash.js, hls.js, shaka-player
-  - webpack, vite, postCSS, babel, eslint, jest, semantic-release, conventional-changelog, lighthouse, cypress, playwright
-  - ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
-  - github-actions, aws, grafana, docker, terraform
-  - plantuml, lucid
-
 ##### Senior Software Engineer (Aug 2020 - Nov 2021, Minsk)
-
-###### Highlights
 - Implemented a reusable Flutter widgets UI kit for our cross-platform media app, accelerating feature development and ensuring design consistency across platforms.
-- Developed a unified multi-platform Google Cast Sender library (Web, iOS, Android) and seamlessly integrated it into the Flutter app, enabling consistent casting functionality across all supported platforms.
+- Developed a unified multi-platform Google Cast Sender library (Web, iOS, Android) using native languages (Kotlin, Swift, JS/TS) and seamlessly integrated it into the Flutter app, enabling consistent casting functionality across all supported platforms.
 - Built the web implementation of a cross-platform Flutter video player library using Dart–JS interop, enabling HLS/DASH playback with DRM support with a unified interface across Web, iOS, and Android.
 - Significantly improved CI/CD performance, leading to faster release cycles.
 - Led a cross-functional feature team spanning Android, iOS, Web, and QA to deliver Chromecast and Player initiatives, driving alignment across platforms and ensuring cohesive feature implementation.
 - Significantly reduced onboarding time by designing a structured onboarding documentation for new developers, including examples and codebase tours.
 
-###### Environment
-- Customer: Europe's leading streaming, broadband, and communication company
-- Team Size: Dev 100+, QA: 20+
-- Key languages, frameworks, and tools I was using extensively during my work on this project:
-    - dart, Javascript/typescript, nodejs, swift, kotlin, groovy
-    - flutter, flutter-bloc, react, redux, ramdajs, rxjs, avplayer, exoplayer, shaka-player
-    - pub, make, gradle, webpack, babel, eslint
-    - jenkins, sonar, swagger, nginx, docker
-
 ##### Software Engineer (Jun 2018 - Aug 2020, Minsk)
-
-###### Highlights
 - Implemented EME persistent license flow and license renewal mechanism, significantly reduced requests to license servers during high load (eg: Formula 1).
 - Architected and led modularization of Web Media Player into a plugin-based library, decoupling it from the UI layer — enabling dynamic feature loading (e.g., HLS, DASH, DRM), accelerating feature delivery, halving bug triage time, and seamless reuse across platforms and multiple app surfaces.
 - Integrated and tested WebRTC-based peer-to-peer solutions (Teltoo, Streamroot) as a proof of concept to reduce CDN overhead, with real-world metrics gathered in production.
@@ -99,29 +67,11 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 - Developed Chromecast Receiver App and Web Sender with full feature support—including pin codes, bookmarks, rentals, restrictions, device registration, visual scrubbing, and binge viewing — delivering a seamless and enriched casting experience.
 - Solely managed and delivered an internal voice model training app, from roadmap to deployment — making it easy for employees to record and train models using WebAudio API, Web Workers and Nuance WebSocket API.
 
-###### Environment
-- Customer: Europe's leading streaming, broadband, and communication company
-- Team Size: Dev 10+, QA: 4+
-- Key languages, frameworks, and tools I was using extensively during my work on this project:
-  - javascript, nodejs, python
-  - react, redux, rxjs, ramdajs, lodash, react-motion, conviva, omniture, shaka-player, silverlight
-  - webpack, babel, storybook, eslint, jest, lerna
-
 ##### Junior Software Engineer (Sep 2017 - Jun 2018, Minsk)
-
-###### Highlights
 - Developed a reusable UI Kit of presentational React components, accelerating UI development and ensuring visual consistency across our media applications.
 - Optimized channel-switching performance in the Web Player UI, achieving ~50% faster transitions and a noticeably smoother user experience.
 - Developed thumbnail scrubbing for the Web Player UI using WebVTT, image slicing, and binary search, enhancing user control and media navigation.
 - Implemented DVR window scrubbing in the Web Player, enabling seamless navigation through live content and enhancing the time-shift viewing experience.
-
-###### Environment
-- Customer: Europe's leading streaming, broadband, and communication company
-- Team Size: Dev 1
-- Key languages, frameworks, and tools I was using extensively during my work on this project:
-    - javascript, nodejs
-    - react, redux, rxjs, ramdajs, lodash, react-motion, jQuery, jQuery-mobile
-    - webpack, babel, storybook, eslint, jest, lerna
 
 ---
 
