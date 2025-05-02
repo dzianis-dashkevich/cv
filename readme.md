@@ -80,8 +80,6 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 #### Rolling Scopes
 
 ##### Mentor (Oct 2018 - Mar 2019)
-
-###### Highlights
 - Mentored a group of three individuals with no prior software engineering experience, providing guidance and conducting technical discussions, leading all members to secure job offers.
 
 ---
