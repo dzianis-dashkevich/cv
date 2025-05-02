@@ -17,9 +17,9 @@ Results-oriented software engineer with 8+ years of experience building high-per
 #### Brightcove (acquired) - brightcove.com (Nov 2022 - Mar 2025)
 
 ##### Staff Software Engineer (Nov 2022 - Mar 2025, Los Angeles/New York)
-- Planned and led the development of Web/Smart TV SDK, written in TypeScript, enabling customers to implement media playback across traditional browsers and Smart TVs (Tizen and WebOS).
-- Improved Brightcove Player time-to-first-frame metric by an average of 25%.
-- Proactively led live debugging sessions and ad-hoc technical meetings with enterprise clients, diagnosing complex issues in real time and driving rapid resolutions.
+- Planned and led the development of Web/Smart TV SDK, enabling customers to implement media playback across traditional browsers and Smart TVs (Tizen and WebOS).
+- Improved Brightcove Player time-to-first-frame metric by 25%.
+- Proactively led live debugging sessions with enterprise clients, diagnosing complex issues in real time and driving rapid resolutions.
 - Delivered fixes for critical playback issues in a web media player powering over 4 billion streams per month that improved stream stability and preserved revenue for major B2B partners.
 - Delivered Google IMA DAI (SSAI) integration within the web player, fulfilling the requirement that was a deal-breaker for several enterprise clients, and directly enabling the closure of multiple high-value contracts.
 - Managed Player releases with a canary deployment strategy: A/B testing using in-house analytics piped into the Graphite/Grafana database to detect anomalies only present in production traffic.
@@ -32,7 +32,7 @@ Results-oriented software engineer with 8+ years of experience building high-per
 #### EPAM - epam.com (Sep 2017 - Nov 2022)
 
 ##### Senior Software Engineer (Nov 2021 - Nov 2022, Los Angeles)
-- Resolved a year-long critical playback stuttering issue during ad breaks in production, significantly enhancing live streaming quality for millions of US viewers.
+- Resolved a year-long critical playback stuttering issue during ad breaks in production, significantly enhancing live-streaming quality for millions of US viewers.
 - Consulted on custom Chromium-based SmartTV media stack—troubleshot critical video rendering issues. 
 - Implemented in-house QoE metrics reporting within existing AWS and Grafana infrastructure to deliver playback insights without relying on third-party vendors.
 - Improved player time-to-first-frame metric by an average of 15%.
