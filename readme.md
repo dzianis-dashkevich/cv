@@ -2,28 +2,15 @@
 
 dzianis.dashkevich.us@gmail.com / New York
 
-Experienced Software Engineer with `8+` years of building high-performance, scalable web media applications/players used by _millions_ worldwide.\
-A recognized contributor to the video.js ecosystem with deep expertise in streaming protocols (HLS, DASH), DRM, and web player frameworks like video.js, hls.js, dash.js, and Shaka Player. \
-I led the development of production-grade playback SDKs for Smart TVs, mobile apps, and the web. \
-While web media tech is my core specialty, I bring a generalist mindset — I am comfortable owning features end-to-end, building responsive front-end interfaces and backend APIs, and optimizing CI/CD pipelines. \
-Proven ability to adapt quickly, deliver robust solutions across domains, and mentor teammates while fostering engineering excellence.
+Results-oriented software engineer with 8+ years of experience building high-performance web media applications used by _millions_ worldwide. A recognized contributor to the video.js ecosystem with deep expertise in streaming protocols (HLS, DASH), DRM, and other open source web player frameworks like, hls.js, dash.js, and Shaka Player. Proven expertise in building production-grade playback SDKs for Smart TVs, mobiles, and the web. Skilled in building features end-to-end, from developing responsive front-end interfaces and backend APIs to optimizing CI/CD pipelines. Strong collaborator who drives engineering excellence through mentorship, strategic decision-making, and a deep focus on scalable, maintainable solutions.
 
 #### Tech Stack
-
-- **Languages** 
-  - JavaScript, TypeScript, Node.js, Dart
-- **Frameworks & libs** 
-  - Express.js, Video.js, Dash.js, Hls.js, Shaka-player, Flutter, bloc (Flutter), React, Redux, Zustand, Ramda, Lodash, RxJS
-- **Build & Tooling**
-  - nx, lerna, storybook, typedoc, grunt, rollup, vite, webpack, babel, eslint, jest, vitest, webdriver.io, semantic-release, conventional-changelog, lighthouse, cypress, playwright, make
-- **Media**
-  - ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
-- **CI/CD & DevOps**
-  - jenkins, teamcity, github-actions, aws, grafana, docker, terraform, browserstack, swagger, nginx
-- **Diagrams & Documentation**
-  - plantuml, lucid, draw.io, excalidraw, mermaid.js
-
----
+- **Languages:** JavaScript, TypeScript, Node.js, Dart
+- **Frameworks & libs:** Express.js, Video.js, Dash.js, Hls.js, Shaka-player, Flutter, bloc (Flutter), React, Redux, Zustand, Ramda, Lodash, RxJS
+- **Build & Tooling:** nx, lerna, storybook, typedoc, grunt, rollup, vite, webpack, babel, eslint, jest, vitest, webdriver.io, semantic-release, conventional-changelog, lighthouse, cypress, playwright, make
+- **Media:** ffmpeg, ffprobe, gpac mp4box, bento4, tsduck
+- **CI/CD & DevOps:** jenkins, teamcity, github-actions, aws, grafana, docker, terraform, browserstack, swagger, nginx
+- **Diagrams & Documentation:** plantuml, lucid, draw.io, excalidraw, mermaid.js
 
 ### Work Experience
 
@@ -73,16 +60,12 @@ Proven ability to adapt quickly, deliver robust solutions across domains, and me
 - Developed thumbnail scrubbing for the Web Player UI using WebVTT, image slicing, and binary search, enhancing user control and media navigation.
 - Implemented DVR window scrubbing in the Web Player, enabling seamless navigation through live content and enhancing the time-shift viewing experience.
 
----
-
 ### Community Involvement
 
 #### Rolling Scopes
 
 ##### Mentor (Oct 2018 - Mar 2019)
 - Mentored a group of three individuals with no prior software engineering experience, providing guidance and conducting technical discussions, leading all members to secure job offers.
-
----
 
 ### Education
 
