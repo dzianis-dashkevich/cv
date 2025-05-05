@@ -1,8 +1,8 @@
 ### About
 
-dzianis.dashkevich.us@gmail.com / New York
+New York / 714-266-5837 / dzianis.dashkevich.us@gmail.com / [LinkedIn](https://www.linkedin.com/in/dzianis-dashkevich/)
 
-Results-oriented software engineer with 8+ years of experience building high-performance web media applications used by _millions_ worldwide. A recognized contributor to the video.js ecosystem with deep expertise in streaming protocols (HLS, DASH), DRM, and other open-source web player frameworks like hls.js, dash.js, and Shaka Player. Proven expertise in building production-grade playback SDKs for Smart TVs, mobiles, and the web. Skilled in building features end-to-end, from developing responsive front-end interfaces and backend APIs to optimizing CI/CD pipelines. Strong collaborator who drives engineering excellence through mentorship, strategic decision-making, and a deep focus on scalable, maintainable solutions.
+Results-oriented software engineer with 7+ years of experience building high-performance web media applications used by _millions_ worldwide. Deep expertise in streaming protocols and open-source web player libraries such as hls.js, dash.js, Shaka Player, and video.js. Recognized contributor to the video.js ecosystem. Proven expertise in building production-grade playback SDKs for the web and Smart TVs. Strong collaborator who drives engineering excellence through mentorship, strategic decision-making, and a deep focus on scalable, maintainable solutions.
 
 #### Tech Stack
 - **Languages:** JavaScript, TypeScript, Node.js, Dart
@@ -33,9 +33,9 @@ Results-oriented software engineer with 8+ years of experience building high-per
 
 ##### Senior Software Engineer (Nov 2021 - Nov 2022, Los Angeles)
 - Resolved a year-long critical playback stuttering issue during ad breaks in production, significantly enhancing live-streaming quality for millions of US viewers.
-- Consulted on custom Chromium-based SmartTV media stack—troubleshot critical video rendering issues.
+- Consulted on custom Chromium-based SmartTV media stack and troubleshot critical video rendering issues.
 - Implemented in-house QoE metrics reporting within existing AWS and Grafana infrastructure to deliver playback insights without relying on third-party vendors.
-- Improved player time-to-first-frame metric by an average of 15%.
+- Improved player time-to-first-frame metric by 15%.
 - Delivered ABR optimization and playback stability fixes, reducing buffering by 30% on low-performance TVs.
 
 ##### Senior Software Engineer (Nov 2020 - Nov 2021, Minsk)
