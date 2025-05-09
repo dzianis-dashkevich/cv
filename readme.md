@@ -5,9 +5,9 @@ New York / 714-266-5837 / dzianis.dashkevich.us@gmail.com / [LinkedIn](https://w
 Results-oriented software engineer with 7+ years of experience building high-performance web media applications used by _millions_ worldwide. Deep expertise in streaming protocols and open-source web player libraries such as hls.js, dash.js, Shaka Player, and video.js. Recognized contributor to the video.js ecosystem. Proven expertise in building production-grade playback SDKs for the web and Smart TVs. Strong collaborator who drives engineering excellence through mentorship, strategic decision-making, and a deep focus on scalable, maintainable solutions.
 
 #### Tech Stack
-- **Languages:** JavaScript, TypeScript, Node.js, Dart
-- **Frameworks & libs:** Express.js, Video.js, Dash.js, Hls.js, Shaka-player, Flutter, bloc (Flutter), React, Redux, Zustand, Ramda, Lodash, RxJS
-- **Build & Tooling:** Nx, Lerna, Storybook, Typedoc, Grunt, Rollup, Vite, Webpack, Babel, ESlint, Jest, Vitest, Webdriver.io, semantic-release, conventional-changelog, Lighthouse, Cypress, Playwright, make
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Node.js, Dart
+- **Frameworks & libs:** Express.js, Video.js, Dash.js, Hls.js, Shaka-player, Flutter, bloc (Flutter), React, Redux, Ramda, Lodash, RxJS
+- **Build & Tooling:** Nx, Lerna, Storybook, Typedoc, Grunt, Rollup, Vite, Webpack, Babel, ESlint, Jest, Vitest, Webdriver.io, semantic-release, conventional-changelog, Lighthouse, Playwright, make
 - **Media:** FFmpeg, FFprobe, Gpac mp4box, Bento4, TSduck
 - **CI/CD & DevOps:** Jenkins, TeamCity, GitHub-Actions, AWS, Grafana, Docker, Terraform, Browserstack, Swagger, Nginx
 - **Diagrams & Documentation:** PlantUML, Lucid, Draw.io, Excalidraw, mermaid.js
